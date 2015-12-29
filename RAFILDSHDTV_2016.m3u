@@ -1,0 +1,146 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TESTE
+http://200.194.238.226:5000/live/000x_discovery_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TNT HD BY RAFILDSHD
+http://video-cdn.streamup.com/app/egolhdplays-channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",BENFICA TV HD
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/byarno.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",BAND SPORTS HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",BAND HD
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",CULTURA HD
+http://31.204.128.112:8081/live/tvcultura/chunks.m3u8?nimblesessionid=167987
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",CARTOON NETWORK
+http://streamup.global.ssl.fastly.net:80/app/olsenpaulos-channel/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",COMBATE
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FOX SPORT
+http://server1.livestreaming.ninja:1935/live/foxsports1/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",REDE TV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FUTURA HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",GLOBO HQ
+http://213.163.71.139:8081/live/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO HD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv480.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO HD OP 02
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO MAXX  640p
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento3.smil/chunklist_b850000.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO MAXX HD
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento3.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO MAXX 2
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine480.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO MAXX 2 HD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine720.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPORTE INTERATIVO SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_240p/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SPORTV
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SPORT TV2
+http://31.204.128.112:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 1 720P EM DIA DE JOGOS
+http://rafildshd.ucoz.com.br/faca_sua_doacao.png
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 2 720P EM DIA DE JOGOS
+http://rafildshd.ucoz.com.br/faca_sua_doacao.png
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 3 720P EM DIA DE JOGOS
+http://rafildshd.ucoz.com.br/faca_sua_doacao.png
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 4 720P EM DIA DE JOGOS
+http://rafildshd.ucoz.com.br/faca_sua_doacao.png
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 1
+http://62.210.82.241:1935/liverepeat/fut01/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 2
+http://62.210.82.241:1935/liverepeat/fut02/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 3
+http://62.210.82.241:1935/liverepeat/fut05/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 4
+http://62.210.82.241:1935/liverepeat/fut06/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 5
+http://62.210.82.241:1935/liverepeat/fut07/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 6
+http://62.210.82.241:1935/liverepeat/fut09/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 7
+http://62.210.82.241:1935/liverepeat/fut1022842/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 8
+http://62.210.82.241:1935/liverepeat/fut1123402/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",PREMIERE 9
+http://62.210.82.241:1935/liverepeat/fut12/live.m3u8
+
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SHOPTIME SP
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TV APARECIDA SP
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TV DIÁRIO CE
+http://gbbrlive.sambatech.com.br:80/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TV DIÁRIO DE CAMPOS RJ
+http://streaming49.sitehosting.com.br:1935/cadripaes/cadripaes/live.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",RTP 1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SIC 
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPN + HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FOX SPORTS HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FOX SPORTS 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",NATGEO WILD HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",DISCOVERY CHANNEL HD
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",DISCOVERY SCIENCE HD
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",DISCOVERY CIVILIZATION HD
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",DISCOVERY TURBO HD
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TLC HD
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",HISTORY HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FOX HD
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",WB
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",A&E HD
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TRUTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",ID
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",FOXLIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
+
